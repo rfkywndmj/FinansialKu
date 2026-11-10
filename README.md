@@ -146,4 +146,3 @@ FinansialKu dapat membaca email bukti transaksi yang masuk ke Gmail kamu secara 
 ## Kredit & Atribusi
 
 Dirancang dan dikembangkan oleh **Polarize__**.
-Atribusi pembuat terkunci di dalam sistem integritas backend (`Code.gs`) dan frontend (`Index.html`).
